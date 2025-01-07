@@ -18,6 +18,9 @@
     - Configurar build automatizado
     - Criar e visualizar primeira janela
 ```
+## Imagens
+
+![Imagem](./print/print.png)
 
 ## Descrição sobre a linguagem ZIG
 
