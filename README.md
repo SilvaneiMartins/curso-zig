@@ -64,9 +64,14 @@ Zig é particularmente atrativa para desenvolvedores que precisam de controle de
 
 ## Documentação e ferramentas utilizada
 
+- [ZIG guide](https://zig.guide/)
 - [Acessos do ZIG](https://ziglang.org/learn/)
 - [Biblioteca Build ZLS](https://github.com/zigtools/zls)
 - [Documentação ZIG 13.0](https://ziglang.org/documentation/0.13.0/)
+
+## Fonte de pesquisa
+
+- [dev.to](https://dev.to/watzon/debugging-zig-with-vs-code-44ca)
 
 ## Licença
 
