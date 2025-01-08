@@ -14,9 +14,10 @@
 
     1 - Primeiro modulo
     
-    - Gerar o primeiro programa - Ola Mundo
-    - Configurar build automatizado
-    - Criar e visualizar primeira janela
+    - [x] Gerar o primeiro programa - Ola Mundo
+    - [x] Construção automatizada do Visual Studio Code
+    - [ ] Configurar depuração
+    - [ ] Criar e visualizar primeira janela
 ```
 ## Imagens
 
