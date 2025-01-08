@@ -62,6 +62,12 @@ Zig é particularmente atrativa para desenvolvedores que precisam de controle de
     ./nome_do_seu_projeto.exe
 ```
 
+## Documentação e ferramentas utilizada
+
+- [Acessos do ZIG](https://ziglang.org/learn/)
+- [Biblioteca Build ZLS](https://github.com/zigtools/zls)
+- [Documentação ZIG 13.0](https://ziglang.org/documentation/0.13.0/)
+
 ## Licença
 
 Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/curso-zig/blob/master/LICENSE) para obter detalhes.
