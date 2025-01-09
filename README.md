@@ -1,10 +1,24 @@
 <h1 align="center">
-    HELLO WORLD ZIG
+    JOGO DE LUTA SAM
 </h1>
 
 <h4 align="center">
-    Criando um hello world na linguagem ZIG
+    Criando um um game de luta na linguagem ZIG
 </h4>
+
+## Sobre o game
+
+🎮 Conheça o SAM - Meu Jogo de Luta Desenvolvido em Zig! 🥋⚔️
+
+Estou empolgado em compartilhar meu projeto mais recente: SAM, um jogo de luta que estou desenvolvendo utilizando a linguagem Zig! 🚀
+
+SAM é um projeto que combina alta performance e controle detalhado sobre os recursos do sistema, aproveitando todo o poder que Zig oferece para criação de jogos de baixo nível.
+
+✨ Destaques do projeto:
+
+⚡ Jogabilidade fluida graças à eficiência da linguagem Zig.
+🎨 Gráficos otimizados, focados em desempenho e responsividade.
+🛠️ Construído com foco em controle, sem sacrificar a experiência do jogador.
 
 ## Planejamento de estudo
 
@@ -16,12 +30,19 @@
     
     - [x] Gerar o primeiro programa - Ola Mundo
     - [x] Construção automatizada do Visual Studio Code
-    - [ ] Configurar depuração
+    - [x] Configurar depuração
+    - [x] Configuração repositório github
+
+    2 - Segundo Modulo
+    - [ ] Configuração biblioteca raylib
     - [ ] Criar e visualizar primeira janela
+    - [ ] Desenhando uma sprite
+    - [ ] Analisando alguns designs para jogos de luta
 ```
 ## Imagens
 
-![Imagem](./print/print.png)
+![Imagem I](./print/print.png)
+![Imagem II](./print/print1.png)
 
 ## Descrição sobre a linguagem ZIG
 
